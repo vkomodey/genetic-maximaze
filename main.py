@@ -28,4 +28,3 @@ crossed_first_ancestor, crossed_second_ancestor = crossingover(first_ancestor, s
 
 mutated_first_ancestor = mutate(crossed_first_ancestor, p_m)
 mutated_second_ancestor = mutate(crossed_second_ancestor, p_m)
-
